@@ -21,7 +21,7 @@
     <?php include 'header.php'; ?>
     
     <!-- Body: Index - My Information -->
-    <h1 class="heading">DEPLOYMENT PORFOLIO 3 - HIGH DISTINCTION</h1>
+    <h1 class="heading">DEPLOYMENT PORFOLIO 3 - HIGH DISTINCTION (edited from Visual Studio)</h1>
     
     <div class="myinfo">
         <div class="textinfo">
